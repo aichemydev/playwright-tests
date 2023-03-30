@@ -11,5 +11,6 @@ npm install -D
 Then:
 
 ```
+npx playwright install
 npx playwright test
 ```
